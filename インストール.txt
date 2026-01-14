@@ -11,12 +11,19 @@ $ deactivate
 
 ollamaインストール
 $ pip install ollama
+
 flaskインストール
 $ python3 -m pip install flask
 
 
 プログラムをダウンロード
-・CLI版
-・Web版
 
-Githubに登録して、試してみる
+git clone https://github.com/momorara/LLM_chat
+
+ディレクトリ移動
+cd LLM_chat
+
+ターミナルでプログラムを起動
+・CLI版 python chat_cli.py
+・Web版 python app.py
+　　　　　その後、webプラウザで　http://<ipアドレス>:8000
