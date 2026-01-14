@@ -1,26 +1,29 @@
 # LLM_chat
-LLMによるチャットシステム<br>
+ラズパイ用 LLMによるチャットシステム<br>
 
 <h4><<概要>></h4>
 LLMフレームワークであるollamaを使って、TinySwallowをモデルにしたチャットシステムです。<br>
 CLIシステムとWebシステムがあります。
 
-<h4><<システム構成>></h4>
-/home/pi/LLM_chat/<br>
-│<br>
-├── model_downloader.py      ← モデルDL用スクリプト<br>
-│<br>
-├── chat_cli.py              ← CLIチャット用Python<br>
-│<br>
-├── app.py                   ← Webチャット用Python<br>
-├── templates/<br>
-│   └── index.html           ←  Webチャット用html<br>
-│<br>
-├── start.sh                 ← 起動用ワンクリック<br>
-├── 利用規約.txt <br>
-├── License.txt <br>
-└── README.txt               ← 紙マニュアル代わり<br>
+<h4><<使用方法>></h4>
+インストールについては、インストール文書に従いインストールを行ってください。<br>
 
+<h4><<動作環境>></h4>
+2026/01/14 Trixie 13.3にて動作確認<br>
 
+<h4><<使用説明資料>></h4>
+説明書類の中の資料を確認ください。<br>
+お問い合わせに関しては、購入ページからお願いします。　<br>
 
+ダウンロード<br>
+git clone https://github.com/momorara/LLM_chat<br>
+
+<h4><<メンテナンス情報>></h4>
+なし<br>
+
+<h4><<サポート窓口>></h4>
+  メールアドレスが　tkj-works@mbr.nifty.com に変更になっています。<br>
+  資料等を修正中ですが、ご注意ください。<br>
+  サポートコミュニティー　https://www.facebook.com/groups/3773038759434230<br>
+<br>
 
