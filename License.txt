@@ -1,0 +1,5 @@
+This product uses:
+* Ollama (MIT License)
+* TinySwallow-1.5B model (Apache License 2.0)
+
+Apache License text included.
