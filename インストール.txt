@@ -1,0 +1,22 @@
+仮想環境を作る
+$ python3 -m venv V_ollama
+仮想環境に入る
+$ source V_ollama/bin/activate
+
+仮想環境から出る
+$ deactivate
+
+
+仮想環境でインストール
+
+ollamaインストール
+$ pip install ollama
+flaskインストール
+$ python3 -m pip install flask
+
+
+プログラムをダウンロード
+・CLI版
+・Web版
+
+Githubに登録して、試してみる
