@@ -2,6 +2,14 @@
 # Requires: llama.cpp compiled and model downloaded as "tinyswallow.gguf"
 """
 2026/01/14  簡易Chatプログラム
+
+本ソフトウェアは、Ollama Python Client（MIT License）を使用しています。
+Copyright (c) Ollama contributors.
+
+Copyright (c) 2026 takanobu Kawabata
+All rights reserved.
+This software uses the Ollama Python client (MIT License).
+Ollama is not affiliated with this product.
 """
 
 import ollama
